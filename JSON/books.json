@@ -1,0 +1,37 @@
+[
+    {
+        "rating":  "4.5",
+        "title":"নির্বাসন",
+        "author": "সাদাত হুসাইন",
+        "BookImage": "assets/books/book1.jpg"
+    },
+
+    {
+        "rating":  "4.5",
+        "title":"মানবব্জনম",
+        "author": "সাদাত হুসাইন",
+        "BookImage": "assets/books/book2.jpg"
+    },
+
+    {
+        "rating":  "4.5",
+        "title":"দিনের শেষে",
+        "author": "হুমায়ূন আহমেদ",
+        "BookImage": "assets/books/book3.jpeg"
+    },
+
+    {
+        "rating":  "4.5",
+        "title":"দেয়াল",
+        "author": "হুমায়ূন আহমেদ",
+        "BookImage": "assets/books/book4.jpg"
+    },
+
+    {
+        "rating":  "4.5",
+        "title":"মহাপুরুষ",
+        "author": "হুমায়ূন আহমেদ",
+        "BookImage": "assets/books/book5.jpg"
+    }
+]
+
